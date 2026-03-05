@@ -1,0 +1,6 @@
+opencv-python
+ultralytics
+insightface
+numpy
+psycopg2
+onnxruntime
