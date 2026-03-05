@@ -27,16 +27,16 @@ All analytics data is stored in a **PostgreSQL database** for further analysis.
 RTSP Camera Stream
         │
         ▼
-Video Capture (OpenCV)
+Video Capture
         │
         ▼
-Human Detection (YOLO)
+Human Detection
         │
         ▼
-Multi-Object Tracking (BotSort)
+Multi-Object Tracking
         │
         ▼
-Face Analysis (InsightFace)
+Face Analysis
         │
         ▼
 Gender Prediction
