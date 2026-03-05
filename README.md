@@ -52,7 +52,7 @@ Line Crossing Logic
 PostgreSQL Database Storage
 ```
 
-### 2️⃣ Install dependencies
+###  Install dependencies
 
 ```
 pip install -r requirements.txt
