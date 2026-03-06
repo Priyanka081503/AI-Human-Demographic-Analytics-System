@@ -11,11 +11,6 @@ This project is designed for **retail stores, malls, offices, and smart surveill
 
 The system processes **live RTSP camera streams**, detects humans, tracks them across frames, and analyzes their demographic information.
 
-It also calculates:
-
-* Entry count (Ingress)
-* Exit count (Egress)
-* Time spent inside the monitored area (Dwell Time)
 
 All analytics data is stored in a **PostgreSQL database** for further analysis.
 
@@ -43,10 +38,6 @@ Gender Prediction
         │
         ▼
 Line Crossing Logic
-        │
-        ├── Ingress Count
-        ├── Egress Count
-        └── Dwell Time
         │
         ▼
 PostgreSQL Database Storage
